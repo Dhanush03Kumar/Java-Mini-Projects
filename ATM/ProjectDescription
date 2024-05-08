@@ -1,0 +1,3 @@
+A Java application  written to mimic ATM operations.
+This provides user with a range of options to perform transactions.
+Once the user is authenticated ,they can select actions such as  withdrawing money, depositing money, checking account balance, and exiting the system.
